@@ -3,3 +3,18 @@
     padding-right: 5%;
     padding-left: 5%;
 }
+
+.cougar-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
