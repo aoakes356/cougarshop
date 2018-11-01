@@ -16,8 +16,16 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-<<<<<<< HEAD
-    
-=======
->>>>>>> footer-1
+}
+.black-box {
+    display: block;
+    height: 33%;
+    background-color: 	#292929;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.white-text {
+    margin-left: 20px;
+    color: white;
 }
