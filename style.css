@@ -17,15 +17,23 @@
     margin-right: auto;
     width: 100%;
 }
+
+
 .black-box {
     display: block;
-    height: 33%;
+    height: 45%;
     background-color: 	#292929;
+    padding: 3%;
     padding-top: 50px;
     padding-bottom: 50px;
+    color:white; 
+}
+
+.copy-right{
+    font-size:.8em;
 }
 
 .white-text {
-    margin-left: 20px;
-    color: white;
+    color: #fff !important;
+    font-size:.9em;
 }
